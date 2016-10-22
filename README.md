@@ -1,3 +1,1 @@
 # datasciencecoursera
-
-hi there
